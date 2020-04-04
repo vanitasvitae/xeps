@@ -1165,7 +1165,7 @@
     </p>
     <ol>
       <li>The nick is registered with the user account in some way, for example as part of user provisioning with nick configured as an attribute in a directory service.   For example, this could be chosen by corporate services that wish to ensure consistent nick values for a set of users and channels.</li>
-      <li>The nick is registered with the MIX service, as described in  <link url='#usecase-user-register'> Registering a Nick </link>.</li>
+      <li>The nick is registered with the MIX service, as described in  <link url='https://xmpp.org/extensions/xep-0407.html#usecase-user-register'> MIX-MISC §3. Registering a Nick </link>.</li>
       <li>The user explicitly sets the nick, as described in this section.</li>
       <li>The MIX service generates the nick.  </li>
     </ol>
