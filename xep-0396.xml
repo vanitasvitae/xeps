@@ -31,7 +31,6 @@
     <ns>jingle:errors</ns>
     <url>http://xmpp.org/schemas/jingle-errors.xsd</url>
   </schemaloc>
-  <registry/>
   <discuss>jingle</discuss>
   &paulschaub;
   <revision>
